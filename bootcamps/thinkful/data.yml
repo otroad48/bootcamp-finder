@@ -56,6 +56,9 @@ programs:
     - raleigh
     - washington-dc
     - los-angeles
+    - phoenix
+    - san-diego
+    - portland
     commitment: part-time
     cost_description: $1,500 per month
     description: !!python/unicode 'Our Flexible Web Development Bootcamp provides
@@ -106,6 +109,10 @@ programs:
     - atlanta
     - raleigh
     - washington-dc
+    - los-angeles
+    - phoenix
+    - san-diego
+    - portland
     commitment: full-time
     cost_description: $14,000
     description: "Thinkful\u2019s Full Time Web Development Bootcamp shares the same\
@@ -144,6 +151,10 @@ programs:
     - atlanta
     - raleigh
     - washington-dc
+    - los-angeles
+    - phoenix
+    - san-diego
+    - portland
     commitment: part-time
     cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
       to bootcamp tuition upon acceptance.
