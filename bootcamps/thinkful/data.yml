@@ -151,6 +151,10 @@ programs:
     - atlanta
     - raleigh
     - washington-dc
+    - los-angeles
+    - phoenix
+    - san-diego
+    - portland
     commitment: part-time
     cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
       to bootcamp tuition upon acceptance.
