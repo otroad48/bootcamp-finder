@@ -1,4 +1,4 @@
-description: !!python/unicode 'Thinkful''s Web Development Bootcamp combines an in-depth,
+description: !!python/unicode 'Thinkful''s Engineering Immersion program combines an in-depth,
   project-based approach with three 1-on-1
 
   sessions every week. This program is built to land beginners their first
@@ -21,9 +21,9 @@ description: !!python/unicode 'Thinkful''s Web Development Bootcamp combines an 
   The Bootcamp can be taken at two paces: Full Time or Flexible.
 
 
-  The Flexible Web Development Bootcamp is unique among bootcamps in that it achieves
+  The Full Stack Flex program is unique among bootcamps in that it achieves
   the same end goals while remaining compatible with students'' normal job schedules.
-  In the Full Time Web Development Bootcamp, Thinkful students spend all day learning
+  In the full-time Engineering Immersion program, Thinkful students spend all day learning
   for 17 weeks straight. At this level of immersion, students require constant support,
   and are surrounded by a team of instructors, TA''s, 1-on-1 mentors, as well as their
   classmates.
@@ -36,7 +36,7 @@ description: !!python/unicode 'Thinkful''s Web Development Bootcamp combines an 
 
 
   Thinkful provides scholarships to all self-identifying women and military veterans
-  of $100 per month for Flexible Web Development Bootcamp students and $200 per month for Full Time Web Development students. The school provides
+  of $100 per month for Full Stack Flex program students and $200 per month for Full Time Web Development students. The school provides
   these in collaboration with Girl Code It, MotherCoders, and Operation Code. The
   women''s scholarship can be redeemed [using this link](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=women-scholarship-100)
   and the veteran''s scholarship [can be redeemed here](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=veterans-scholarship-100).
@@ -61,7 +61,7 @@ programs:
     - portland
     commitment: part-time
     cost_description: $1,500 per month
-    description: !!python/unicode 'Our Flexible Web Development Bootcamp provides
+    description: !!python/unicode 'Our Full Stack Flex program provides
       an in-depth, project-based approach with three 1-on-1
 
       mentor sessions per week. This bootcamp is built to land beginners their first
@@ -82,7 +82,7 @@ programs:
 
 
       '
-    display_name: Flexible Web Development Bootcamp
+    display_name: Full Stack Flex program
     duration: 6
     duration_units: months
     financing: true
@@ -115,7 +115,7 @@ programs:
     - portland
     commitment: full-time
     cost_description: $14,000
-    description: "Thinkful\u2019s Full Time Web Development Bootcamp shares the same\
+    description: "Thinkful\u2019s full-time Engineering Immersion shares the same\
       \ in-depth, project based approach of the Flexible pace. The main difference\
       \ is that the Full Time pace pushes students to become web developers in 17\
       \ weeks and requires over 40 hours of effort per week. The fully online program\
@@ -125,7 +125,7 @@ programs:
       \ and features a \u201Cflex week,\u201D in which students learn different technologies,\
       \ including Ruby and Python. Students also use industry-standard collaboration\
       \ tools such as GitHub and Slack.\n"
-    display_name: Full-time Web Development Bootcamp
+    display_name: Engineering Immersion
     duration: 4
     duration_units: months
     financing: true
@@ -176,7 +176,7 @@ programs:
     guarantee: false
     outcomes_verified: true
     placement: As a brand-new program, Thinkful aims to carry over its 93% success
-      rate in job placement from Web Development Bootcamp.
+      rate in job placement from the Full Stack Flex program.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
