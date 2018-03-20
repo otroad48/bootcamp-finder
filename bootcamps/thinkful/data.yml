@@ -1,27 +1,21 @@
-description: !!python/unicode 'Thinkful''s Engineering Immersion program combines an in-depth,
-  project-based approach with three 1-on-1
+description: !!python/unicode 'Thinkful combines an in-depth,
 
-  sessions every week. This program is built to land beginners their first
+  project-based approach with 1-on-1 sessions every week. This program is
 
-  developer job without having to quit their existing one like all offline
+  built to land beginners their first developer job.
 
-  programs. In this fully online program you''ll work side-by-side with a
+  You''ll work side-by-side with a professional developer building interactive
 
-  professional developer building interactive websites and apps. Your mentor
+  websites and apps. Your mentor will customize each phase of the course, so you
 
-  will customize each phase of the course, so you can learn other JavaScript
+  can learn other JavaScript frameworks and build advanced capstone projects
 
-  frameworks and build advanced capstone projects from scratch. You''ll also gain
+  from scratch. You''ll also gain valuable real-world experience working in a
 
-  valuable real-world experience working in a team setting as you collaborate
-
-  with other students over GitHub and Slack.
+  team setting as you collaborate with other students over GitHub and Slack.
 
 
-  The Bootcamp can be taken at two paces: Full Time or Flexible.
-
-
-  The Full Stack Flex program is unique among bootcamps in that it achieves
+  Thinkful has two different web development programs. The Full Stack Flex program is unique among bootcamps in that it achieves
   the same end goals while remaining compatible with students'' normal job schedules.
   In the full-time Engineering Immersion program, Thinkful students spend all day learning
   for 17 weeks straight. At this level of immersion, students require constant support,
@@ -30,9 +24,11 @@ description: !!python/unicode 'Thinkful''s Engineering Immersion program combine
 
 
   In select cities, Thinkful leverages local networks to match students with mentors
-  at top companies in their area. Currently, students in [Raleigh](https://www.thinkful.com/raleigh-tech-talent-pipeline/)
-  and [Atlanta](https://www.thinkful.com/atlanta-tech-talent-pipeline/) can attend
-  Thinkful-sponsored meetups and get an early beachhead into both cities'' tech markets.
+  at top companies in their area. Currently, students in [Atlanta](https://www.thinkful.com/bootcamp/atlanta/),
+  [Dallas](https://www.thinkful.com/bootcamp/dallas/), [Los Angeles](https://www.thinkful.com/bootcamp/los-angeles/),
+  [Phoenix](https://www.thinkful.com/bootcamp/phoenix/), [Portland](https://www.thinkful.com/bootcamp/portland/),
+  [San Diego](https://www.thinkful.com/bootcamp/san-diego/), [Washington DC](https://www.thinkful.com/bootcamp/washington-dc/),
+  can attend Thinkful-sponsored meetups and get an early beachhead into both cities'' tech markets.
 
 
   Thinkful provides scholarships to all self-identifying women and military veterans
@@ -53,7 +49,7 @@ programs:
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -103,11 +99,11 @@ programs:
     tuition: 1500
     tuition_units: USD
   full-time-web-development-bootcamp:
-    admissions: Open to anyone
+    admissions: Application and interview
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -149,7 +145,7 @@ programs:
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -176,7 +172,7 @@ programs:
     guarantee: false
     outcomes_verified: true
     placement: As a brand-new program, Thinkful aims to carry over its 93% success
-      rate in job placement from the Full Stack Flex program.
+      rate in job placement from the Web Development programs.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
@@ -187,7 +183,7 @@ programs:
     - regression
     - machine-learning
     - postgresql
-    tuition: 1500
+    tuition: 7990
     tuition_units: USD
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
