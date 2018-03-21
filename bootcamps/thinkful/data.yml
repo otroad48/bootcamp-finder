@@ -1,42 +1,38 @@
-description: !!python/unicode 'Thinkful''s Web Development Bootcamp combines an in-depth,
-  project-based approach with three 1-on-1
+description: !!python/unicode 'Thinkful combines an in-depth,
 
-  sessions every week. This program is built to land beginners their first
+  project-based approach with 1-on-1 sessions every week. This program is
 
-  developer job without having to quit their existing one like all offline
+  built to land beginners their first developer job.
 
-  programs. In this fully online program you''ll work side-by-side with a
+  You''ll work side-by-side with a professional developer building interactive
 
-  professional developer building interactive websites and apps. Your mentor
+  websites and apps. Your mentor will customize each phase of the course, so you
 
-  will customize each phase of the course, so you can learn other JavaScript
+  can learn other JavaScript frameworks and build advanced capstone projects
 
-  frameworks and build advanced capstone projects from scratch. You''ll also gain
+  from scratch. You''ll also gain valuable real-world experience working in a
 
-  valuable real-world experience working in a team setting as you collaborate
-
-  with other students over GitHub and Slack.
+  team setting as you collaborate with other students over GitHub and Slack.
 
 
-  The Bootcamp can be taken at two paces: Full Time or Flexible.
-
-
-  The Flexible Web Development Bootcamp is unique among bootcamps in that it achieves
+  Thinkful has two different web development programs. The Full Stack Flex program is unique among bootcamps in that it achieves
   the same end goals while remaining compatible with students'' normal job schedules.
-  In the Full Time Web Development Bootcamp, Thinkful students spend all day learning
+  In the full-time Engineering Immersion program, Thinkful students spend all day learning
   for 17 weeks straight. At this level of immersion, students require constant support,
   and are surrounded by a team of instructors, TA''s, 1-on-1 mentors, as well as their
   classmates.
 
 
   In select cities, Thinkful leverages local networks to match students with mentors
-  at top companies in their area. Currently, students in [Raleigh](https://www.thinkful.com/raleigh-tech-talent-pipeline/)
-  and [Atlanta](https://www.thinkful.com/atlanta-tech-talent-pipeline/) can attend
-  Thinkful-sponsored meetups and get an early beachhead into both cities'' tech markets.
+  at top companies in their area. Currently, students in [Atlanta](https://www.thinkful.com/bootcamp/atlanta/),
+  [Dallas](https://www.thinkful.com/bootcamp/dallas/), [Los Angeles](https://www.thinkful.com/bootcamp/los-angeles/),
+  [Phoenix](https://www.thinkful.com/bootcamp/phoenix/), [Portland](https://www.thinkful.com/bootcamp/portland/),
+  [San Diego](https://www.thinkful.com/bootcamp/san-diego/), [Washington D.C.](https://www.thinkful.com/bootcamp/washington-dc/),
+  can attend Thinkful-sponsored meetups and get an early beachhead into both cities'' tech markets.
 
 
   Thinkful provides scholarships to all self-identifying women and military veterans
-  of $100 per month for Flexible Web Development Bootcamp students and $200 per month for Full Time Web Development students. The school provides
+  of $100 per month for Full Stack Flex students and $200 per month for Full Time Web Development students. The school provides
   these in collaboration with Girl Code It, MotherCoders, and Operation Code. The
   women''s scholarship can be redeemed [using this link](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=women-scholarship-100)
   and the veteran''s scholarship [can be redeemed here](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=veterans-scholarship-100).
@@ -53,7 +49,7 @@ programs:
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -61,7 +57,7 @@ programs:
     - portland
     commitment: part-time
     cost_description: $1,500 per month
-    description: !!python/unicode 'Our Flexible Web Development Bootcamp provides
+    description: !!python/unicode 'Our Full Stack Flex program provides
       an in-depth, project-based approach with three 1-on-1
 
       mentor sessions per week. This bootcamp is built to land beginners their first
@@ -82,7 +78,7 @@ programs:
 
 
       '
-    display_name: Flexible Web Development Bootcamp
+    display_name: Full Stack Flex program
     duration: 6
     duration_units: months
     financing: true
@@ -103,11 +99,11 @@ programs:
     tuition: 1500
     tuition_units: USD
   full-time-web-development-bootcamp:
-    admissions: Open to anyone
+    admissions: Application and interview
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -115,7 +111,7 @@ programs:
     - portland
     commitment: full-time
     cost_description: $14,000
-    description: "Thinkful\u2019s Full Time Web Development Bootcamp shares the same\
+    description: "Thinkful\u2019s full-time Engineering Immersion shares the same\
       \ in-depth, project based approach of the Flexible pace. The main difference\
       \ is that the Full Time pace pushes students to become web developers in 17\
       \ weeks and requires over 40 hours of effort per week. The fully online program\
@@ -125,7 +121,7 @@ programs:
       \ and features a \u201Cflex week,\u201D in which students learn different technologies,\
       \ including Ruby and Python. Students also use industry-standard collaboration\
       \ tools such as GitHub and Slack.\n"
-    display_name: Full-time Web Development Bootcamp
+    display_name: Engineering Immersion
     duration: 4
     duration_units: months
     financing: true
@@ -149,7 +145,7 @@ programs:
     cities:
     - remote
     - atlanta
-    - raleigh
+    - dallas
     - washington-dc
     - los-angeles
     - phoenix
@@ -176,7 +172,7 @@ programs:
     guarantee: false
     outcomes_verified: true
     placement: As a brand-new program, Thinkful aims to carry over its 93% success
-      rate in job placement from Web Development Bootcamp.
+      rate in job placement from the Web Development programs.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
@@ -187,7 +183,7 @@ programs:
     - regression
     - machine-learning
     - postgresql
-    tuition: 1500
+    tuition: 7990
     tuition_units: USD
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
