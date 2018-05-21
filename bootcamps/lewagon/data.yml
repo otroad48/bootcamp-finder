@@ -1,4 +1,5 @@
-description: !!python/unicode 'Le Wagon is a coding school founded in 2013 and run by Boris, Romain and Sébastien in Paris, France.
+description: |
+  Le Wagon is a coding school founded in 2013 and run by Boris, Romain and Sébastien in Paris, France.
   Le Wagon's mission is to bring technical skills to creative people.
   Our 9-week coding bootcamp gives you the ability to build a prototype of any idea you might have.
   No technical background needed, just your motivation.
@@ -8,10 +9,10 @@ description: !!python/unicode 'Le Wagon is a coding school founded in 2013 and r
   Technical Sales, etc. Others started their company, raised money, built a team.
   Others got back to their old job with their new superpowers.
 
-  Since 2017, Le Wagon has been ranked 1st coding bootcamp on the Switchup platform'
+  Since 2017, Le Wagon has been ranked 1st coding bootcamp on the Switchup platform.
 display_name: Le Wagon
 founded_year: 2013
-meta-description: !!python/unicode 'Learn to code with Le Wagon, the best European Coding Bootcamp. Ruby on Rails, JavaScript and Product Design'
+meta-description: 'Learn to code with Le Wagon, the best European Coding Bootcamp. Ruby on Rails, JavaScript and Product Design'
 primary_email: contact@lewagon.com
 programs:
   fullstack:
