@@ -21,31 +21,12 @@ programs:
     - amsterdam
     - bali
     - barcelona
-    - belo-horizonte
     - berlin
-    - bordeaux
-    - brussels
-    - buenos-aires
-    - casablanca
-    - chengdu
-    - copenhagen
-    - lille
     - lisbon
     - london
-    - lyon
-    - marseille
     - melbourne
-    - mexico
-    - milan
     - montreal
-    - nantes
     - paris
-    - rio
-    - sao-paulo
-    - shanghai
-    - sydney
-    - tel-aviv
-    - tokyo
     commitment: full-time
     cost_description: "€5500 to €6500"
     description: "During 9 weeks, students learn Ruby, Object Oriented Programming, SQL and Databases, HTMl, CSS, JavaScript (ES6). They move on to Ruby on Rails and build many new Rails application, an AirBnb clone and spend the last two weeks on a personal project, showcased on DemoDay. Check the outcome at lewagon.com/demoday !"
