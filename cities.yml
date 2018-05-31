@@ -100,6 +100,12 @@
   featured: true
   state: CO
 
+- display_name: Detroit
+  slug: detroit
+  description: Detroit's coding bootcamps can get your coding career started in Michigan. Learn to code in Detroit.
+  featured: true
+  state: MI
+
 - display_name: Dubai
   slug: dubai
   state: United Arab Emirates
