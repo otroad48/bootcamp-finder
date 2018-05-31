@@ -50,11 +50,14 @@ programs:
     - remote
     - atlanta
     - dallas
-    - washington-dc
+    - detroit
     - los-angeles
+    - orlando
     - phoenix
-    - san-diego
     - portland
+    - san-diego
+    - washington-dc
+
     commitment: part-time
     cost_description: $1,500 per month
     description: !!python/unicode 'Our Full Stack Flex program provides
@@ -104,11 +107,13 @@ programs:
     - remote
     - atlanta
     - dallas
-    - washington-dc
+    - detroit
     - los-angeles
+    - orlando
     - phoenix
-    - san-diego
     - portland
+    - san-diego
+    - washington-dc
     commitment: full-time
     cost_description: $14,000
     description: "Thinkful\u2019s full-time Engineering Immersion shares the same\
@@ -146,11 +151,13 @@ programs:
     - remote
     - atlanta
     - dallas
-    - washington-dc
+    - detroit
     - los-angeles
+    - orlando
     - phoenix
-    - san-diego
     - portland
+    - san-diego
+    - washington-dc
     commitment: part-time
     cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
       to bootcamp tuition upon acceptance.
