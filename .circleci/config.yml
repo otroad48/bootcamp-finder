@@ -14,7 +14,7 @@ jobs:
       - run:
           command: |
             . venv/bin/activate
-            ./script/install
+            pip install -r requirements.txt
 
       - run:
           command: |
