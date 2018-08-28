@@ -1,0 +1,22 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:2.7.13
+    steps:
+      - checkout
+      - add_ssh_keys
+
+      - run:
+          name: Create virtual environment
+          command: python -m virtualenv venv
+
+      - run:
+          command: |
+            . venv/bin/activate
+            ./script/install
+
+      - run:
+          command: |
+            . venv/bin/activate
+            ./script/test
