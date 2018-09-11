@@ -68,7 +68,7 @@ programs:
     - los-angeles
     - miami
     - minneapolis
-    - new-york-city
+    - new-york
     - orlando
     - philadelphia
     - phoenix
@@ -139,7 +139,7 @@ programs:
     - los-angeles
     - miami
     - minneapolis
-    - new-york-city
+    - new-york
     - orlando
     - philadelphia
     - phoenix
@@ -197,7 +197,7 @@ programs:
     - los-angeles
     - miami
     - minneapolis
-    - new-york-city
+    - new-york
     - orlando
     - philadelphia
     - phoenix
