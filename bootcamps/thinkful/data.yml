@@ -25,9 +25,18 @@ description: !!python/unicode 'Thinkful combines an in-depth,
 
   In select cities, Thinkful leverages local networks to match students with mentors
   at top companies in their area. Currently, students in [Atlanta](https://www.thinkful.com/bootcamp/atlanta/),
-  [Dallas](https://www.thinkful.com/bootcamp/dallas/), [Los Angeles](https://www.thinkful.com/bootcamp/los-angeles/),
+  [Austin](https://www.thinkful.com/bootcamp/austin/), [Boston](https://www.thinkful.com/bootcamp/boston/),
+  [Chicago](https://www.thinkful.com/bootcamp/chicago/), [Dallas](https://www.thinkful.com/bootcamp/dallas/),
+  [Denver](https://www.thinkful.com/bootcamp/denver/), [Detroit](https://www.thinkful.com/bootcamp/detroit/),
+  [Houston](https://www.thinkful.com/bootcamp/houston/), [Los Angeles](https://www.thinkful.com/bootcamp/los-angeles/), 
+  [Miami](https://www.thinkful.com/bootcamp/miami/), [Minneapolis](https://www.thinkful.com/bootcamp/minneapolis/), 
+  [New York City](https://www.thinkful.com/bootcamp/new-york-city/),
+  [Orlando](https://www.thinkful.com/bootcamp/orlando/), [Philadelphia](https://www.thinkful.com/bootcamp/philadelphia/),
   [Phoenix](https://www.thinkful.com/bootcamp/phoenix/), [Portland](https://www.thinkful.com/bootcamp/portland/),
-  [San Diego](https://www.thinkful.com/bootcamp/san-diego/), [Washington D.C.](https://www.thinkful.com/bootcamp/washington-dc/),
+  [Raleigh](https://www.thinkful.com/bootcamp/raleigh/), [Salt Lake City](https://www.thinkful.com/bootcamp/salt-lake-city/),
+  [San Diego](https://www.thinkful.com/bootcamp/san-diego/), [San Francisco](https://www.thinkful.com/bootcamp/san-francisco/), 
+  [Seattle](https://www.thinkful.com/bootcamp/seattle/), [Seattle](https://www.thinkful.com/bootcamp/seattle/),
+  [Washington D.C.](https://www.thinkful.com/bootcamp/washington-dc/),
   can attend Thinkful-sponsored meetups and get an early beachhead into both cities'' tech markets.
 
 
@@ -49,17 +58,31 @@ programs:
     cities:
     - remote
     - atlanta
+    - austin
+    - boston
+    - chicago
     - dallas
+    - denver
     - detroit
+    - houston
     - los-angeles
+    - miami
+    - minneapolis
+    - new-york
     - orlando
+    - philadelphia
     - phoenix
     - portland
+    - raleigh
+    - salt-lake-city
     - san-diego
+    - san-francisco
+    - seattle
+    - tampa
     - washington-dc
 
     commitment: part-time
-    cost_description: $1,500 per month
+    cost_description: $1,667 per month
     description: !!python/unicode 'Our Full Stack Flex program provides
       an in-depth, project-based approach with three 1-on-1
 
@@ -106,16 +129,30 @@ programs:
     cities:
     - remote
     - atlanta
+    - austin
+    - boston
+    - chicago
     - dallas
+    - denver
     - detroit
+    - houston
     - los-angeles
+    - miami
+    - minneapolis
+    - new-york
     - orlando
+    - philadelphia
     - phoenix
     - portland
+    - raleigh
+    - salt-lake-city
     - san-diego
+    - san-francisco
+    - seattle
+    - tampa
     - washington-dc
     commitment: full-time
-    cost_description: $14,000
+    cost_description: $16,000
     description: "Thinkful\u2019s full-time Engineering Immersion shares the same\
       \ in-depth, project based approach of the Flexible pace. The main difference\
       \ is that the Full Time pace pushes students to become web developers in 17\
@@ -150,17 +187,30 @@ programs:
     cities:
     - remote
     - atlanta
+    - austin
+    - boston
+    - chicago
     - dallas
+    - denver
     - detroit
+    - houston
     - los-angeles
+    - miami
+    - minneapolis
+    - new-york
     - orlando
+    - philadelphia
     - phoenix
     - portland
+    - raleigh
+    - salt-lake-city
     - san-diego
+    - san-francisco
+    - seattle
+    - tampa
     - washington-dc
     commitment: part-time
-    cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
-      to bootcamp tuition upon acceptance.
+    cost_description: $1,495 per month
     description: !!python/unicode 'Thinkful''s data science bootcamp is driven by
       1-on-1 mentorship. Students learn the skills they need to get a job by working
       closely with a professional data scientist. That includes programming in Python,
