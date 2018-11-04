@@ -8,6 +8,11 @@
   description: Akron's coding bootcamps can get you into Ohio's tech market. Learn to code in Akron's small but reputable programming bootcamps.
   state: OH
 
+- display_name: Amsterdam
+  slug: amsterdam
+  description: Learn to code in Amsterdam, capital of The Netherlands. Coding bootcamps in Amsterdam can get your programming career started in The Netherlands.
+  state: Netherlands
+
 - display_name: Asheville
   slug: asheville
   description: Learn to code in Asheville at some of its small but popular coding bootcamps. Programming bootcamps in Asheville can help you become a developer in North Carolina.
@@ -31,6 +36,11 @@
   slug: baltimore
   description: Learn to code at Baltimore coding bootcamps. Programming bootcamps in Baltimore, Maryland offer you an opportunity to code in the Midatlantic.
   state: MD
+
+- display_name: Bali
+  slug: bali
+  description: Learn to code in Bali in the heart of Indonesia. Code & Surf can make a great combo!
+  state: Indonesia
 
 - display_name: Barcelona
   slug: barcelona
@@ -165,6 +175,10 @@
   featured: true
   state: NV
 
+- display_name: Lisbon
+  slug: lisbon
+  state: Portugal
+
 - display_name: Little Rock
   slug: little-rock
   description: In Arkansas, many people are learning to code in Little Rock. The coding bootcamps in Little Rock offer you an opportunity to get coding in the Midwest.
@@ -260,6 +274,11 @@
 - display_name: Palo Alto
   slug: palo-alto
   state: CA
+
+- display_name: Paris
+  slug: paris
+  description: Learn to code in Paris, european capital of Entrepreneurship. Coding bootcamps in Paris will give you a headstart on the startup scene.
+  state: France
 
 - display_name: Philadelphia
   slug: philadelphia

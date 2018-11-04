@@ -1,0 +1,52 @@
+description: |
+  Le Wagon is a coding school founded in 2013 and run by Boris, Romain and Sébastien in Paris, France.
+  Le Wagon's mission is to bring technical skills to creative people.
+  Our 9-week coding bootcamp gives you the ability to build a prototype of any idea you might have.
+  No technical background needed, just your motivation.
+
+  2800+ students already graduated from Le Wagon.
+  They found positions as Junior Web Developers, Product Managers (who can code, huge!),
+  Technical Sales, etc. Others started their company, raised money, built a team.
+  Others got back to their old job with their new superpowers.
+
+  Since 2017, Le Wagon has been ranked 1st coding bootcamp on the Switchup platform.
+display_name: Le Wagon
+founded_year: 2013
+meta-description: 'Learn to code with Le Wagon, the best European Coding Bootcamp. Ruby on Rails, JavaScript and Product Design'
+primary_email: contact@lewagon.com
+programs:
+  fullstack:
+    admissions: Application, interview, prep work
+    cities:
+    - amsterdam
+    - bali
+    - barcelona
+    - berlin
+    - lisbon
+    - london
+    - melbourne
+    - montreal
+    - paris
+    commitment: full-time
+    cost_description: "€5500 to €6500"
+    description: "During 9 weeks, students learn Ruby, Object Oriented Programming, SQL and Databases, HTMl, CSS, JavaScript (ES6). They move on to Ruby on Rails and build many new Rails application, an AirBnb clone and spend the last two weeks on a personal project, showcased on DemoDay. Check the outcome at lewagon.com/demoday !"
+    display_name: FullStack
+    duration: 9
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - ruby-on-rails
+    - javascript
+    - sql
+    - html
+    - css
+    tuition: 6500
+    tuition_units: EUR
+tagline: Change your life, Learn to code
+twitter: lewagonparis
+website: https://www.lewagon.com/
