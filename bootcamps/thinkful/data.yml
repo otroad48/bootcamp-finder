@@ -32,7 +32,7 @@ description: !!python/unicode 'Thinkful combines an in-depth,
   [Miami](https://www.thinkful.com/bootcamp/miami/), [Minneapolis](https://www.thinkful.com/bootcamp/minneapolis/), 
   [New York City](https://www.thinkful.com/bootcamp/new-york-city/),
   [Orlando](https://www.thinkful.com/bootcamp/orlando/), [Philadelphia](https://www.thinkful.com/bootcamp/philadelphia/),
-  [Phoenix](https://www.thinkful.com/bootcamp/phoenix/), [Portland](https://www.thinkful.com/bootcamp/portland/),
+  [Phoenix](https://www.thinkful.com/bootcamp/phoenix/),
   [Raleigh](https://www.thinkful.com/bootcamp/raleigh/), [Salt Lake City](https://www.thinkful.com/bootcamp/salt-lake-city/),
   [San Diego](https://www.thinkful.com/bootcamp/san-diego/), [San Francisco](https://www.thinkful.com/bootcamp/san-francisco/), 
   [Seattle](https://www.thinkful.com/bootcamp/seattle/), [Seattle](https://www.thinkful.com/bootcamp/seattle/),
@@ -72,7 +72,6 @@ programs:
     - orlando
     - philadelphia
     - phoenix
-    - portland
     - raleigh
     - salt-lake-city
     - san-diego
@@ -143,7 +142,6 @@ programs:
     - orlando
     - philadelphia
     - phoenix
-    - portland
     - raleigh
     - salt-lake-city
     - san-diego
@@ -201,7 +199,6 @@ programs:
     - orlando
     - philadelphia
     - phoenix
-    - portland
     - raleigh
     - salt-lake-city
     - san-diego
