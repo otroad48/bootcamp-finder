@@ -1,84 +1,20 @@
-description: !!python/unicode 'General Assembly offers Web Development Immersive class
-  in 8 cities around the
-
-  world. Unlike other bootcamps, GA''s curriculum spends some time focusing on CS
-
-  topics like runtimes of algorithms and data structures. This is great for
-
-  students who''ve learned a lot of syntax on their own, but need to get more
-
-  knowledge of best practices in computing.
-
-
-  They also provide job preparation from reviewing portfolios to verbal
-
-  programming quizzes. Additionally, after the end of the course, they host a
-
-  meet and greet with potential employers and also open applications to the GA
-
-  apprenticeship program. The program is
-
-  basically a 12 week paid apprenticeship with a tech company.
-
-
-  To apply to the program, you first fill out an application online. You will
-
-  then have an informational and fit phone interview. Afterwords, you will need
-
-  to complete pre-work and have another interview. This interview will be more
-
-  around skills including the pre-work and logic problems. This process might
-
-  vary based on which city you plan on applying to.
-
-
+description: !!python/unicode 'General Assembly offers full-time Immersive programs in three disciplines: web
+development, user experience design, and data science. These courses
+are designed to prepare students with the skills and competencies
+needed to succeed in a new field or career. Each program involves 420
+to 480 hours of in-class time over 10 to 13 weeks, and includes one-on-one
+career coaching and access to our expansive network of potential
+employers. In addition, GA offers career-boosting part-time courses
+and short-form workshops and events designed to inspire, educate, and
+connect local talent and leaders.
   '
 display_name: General Assembly
 founded_year: 2011
 meta-description: Read reviews of General Assembly courses. Find out about worldwide
-  General Assembly classes at locations including NYC, Atlanta, DC, Boston, London,
-  Melbourne, and more. Learn web development, data science, UX design, or Android
+  General Assembly classes at their 17 locations. Learn web development, data science, UX design, or Android
   development.
 primary_email: admissions@generalassemb.ly
 programs:
-  android-development-immersive:
-    admissions: Open to anyone
-    cities:
-    - atlanta
-    - austin
-    - boston
-    - chicago
-    - hong-kong
-    - london
-    - los-angeles
-    - san-francisco
-    - seattle
-    - sydney
-    - washington-dc
-    commitment: full-time
-    cost_description: $13,500
-    description: "General Assembly\u2019s three-month bootcamp prepares graduates\
-      \ for careers as\nAndroid developers. The curriculum demands that students build\
-      \ real Android\napps, using their newly acquired skills in JavaScript, API,\
-      \ XML, and material\ndesign. Extensive career counseling services along with\
-      \ professional\nnetworking opportunities are also a key part of General Assembly\u2019\
-      s Android\ndevelopment intensive.\n\n"
-    display_name: Android Development Immersive
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: 'No'
-    topics:
-    - java
-    - android
-    - ui
-    - ux
-    tuition: 13500
-    tuition_units: ''
   data-science-immersive:
     admissions: Open to anyone
     cities:
@@ -95,7 +31,7 @@ programs:
     - sydney
     - washington-dc
     commitment: unknown
-    cost_description: $14,500
+    cost_description: $15,950
     description: "The data science immersive at General Assembly teaches the skills\
       \ necessary\nfor bootcamp recruits to successfully analyze \u2013 and present\
       \ \u2013 data. Just a few\nof the topics covered include Python, Git, UNIX,\
@@ -107,9 +43,9 @@ programs:
     duration_units: weeks
     financing: true
     guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
+    outcomes_verified: true
+    placement: 'Report available here: /bit.ly/GA-outcomes'
+    reports_outcomes: true
     scholarships: 'No'
     topics:
     - git
@@ -136,7 +72,7 @@ programs:
     - sydney
     - washington-dc
     commitment: part-time
-    cost_description: $11,500
+    cost_description: $14,950
     description: !!python/unicode '
 
 
@@ -146,16 +82,16 @@ programs:
     duration_units: weeks
     financing: true
     guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed.
-    reports_outcomes: false
+    outcomes_verified: true
+    placement: 'Report available here: /bit.ly/GA-outcomes'
+    reports_outcomes: true
     scholarships: Yes - Need-based
     topics:
     - ui
     - ux
     - prototyping
     - testing
-    tuition: 11500
+    tuition: 14950
     tuition_units: ''
   web-development-immersive:
     admissions: Open to anyone
@@ -176,7 +112,7 @@ programs:
     - melbourne
     - singapore
     commitment: full-time
-    cost_description: $13,500
+    cost_description: $14,950
     description: "General Assembly\u2019s web development bootcamp covers a variety\
       \ of career-crucial\ntopics including JavaScript and Rails. Intensive career\
       \ counseling is also\npart of the program. General Assembly graduates will have\
@@ -187,9 +123,9 @@ programs:
     duration_units: weeks
     financing: true
     guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
+    outcomes_verified: true
+    placement: 'Report available here: /bit.ly/GA-outcomes'
+    reports_outcomes: true
     scholarships: For low-income students
     topics:
     - ruby-on-rails
@@ -197,7 +133,7 @@ programs:
     - html
     - css
     - sql
-    tuition: 13500
+    tuition: 14950
     tuition_units: USD $
 tagline: Transforming Thinkers into Creators
 twitter: GA
