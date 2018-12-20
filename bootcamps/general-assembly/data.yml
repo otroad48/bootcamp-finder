@@ -44,7 +44,7 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: [Read latest outcomes](https://blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2016/10/GA_OutcomesReport_161025.pdf)
+    placement: Read report: bit.ly/GA-outcomes   
     reports_outcomes: true
     scholarships: 'No'
     topics:
@@ -83,7 +83,7 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: [Read latest outcomes](https://blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2016/10/GA_OutcomesReport_161025.pdf)
+    placement: Read report: bit.ly/GA-outcomes
     reports_outcomes: true
     scholarships: Yes - Need-based
     topics:
@@ -124,7 +124,7 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: [Read latest outcomes](https://blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2016/10/GA_OutcomesReport_161025.pdf)
+    placement: Read report: bit.ly/GA-outcomes
     reports_outcomes: true
     scholarships: For low-income students
     topics:
@@ -133,7 +133,7 @@ programs:
     - html
     - css
     - sql
-    tuition: 13500
+    tuition: 14950
     tuition_units: USD $
 tagline: Transforming Thinkers into Creators
 twitter: GA
