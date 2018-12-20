@@ -7,8 +7,6 @@ career coaching and access to our expansive network of potential
 employers. In addition, GA offers career-boosting part-time courses
 and short-form workshops and events designed to inspire, educate, and
 connect local talent and leaders.
-
-
   '
 display_name: General Assembly
 founded_year: 2011
@@ -17,44 +15,6 @@ meta-description: Read reviews of General Assembly courses. Find out about world
   development.
 primary_email: admissions@generalassemb.ly
 programs:
-  android-development-immersive:
-    admissions: Open to anyone
-    cities:
-    - atlanta
-    - austin
-    - boston
-    - chicago
-    - hong-kong
-    - london
-    - los-angeles
-    - san-francisco
-    - seattle
-    - sydney
-    - washington-dc
-    commitment: full-time
-    cost_description: $13,500
-    description: "General Assembly\u2019s three-month bootcamp prepares graduates\
-      \ for careers as\nAndroid developers. The curriculum demands that students build\
-      \ real Android\napps, using their newly acquired skills in JavaScript, API,\
-      \ XML, and material\ndesign. Extensive career counseling services along with\
-      \ professional\nnetworking opportunities are also a key part of General Assembly\u2019\
-      s Android\ndevelopment intensive.\n\n"
-    display_name: Android Development Immersive
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: true
-    placement: [Read latest outcomes](https://blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2016/10/GA_OutcomesReport_161025.pdf)
-    reports_outcomes: true
-    scholarships: 'No'
-    topics:
-    - java
-    - android
-    - ui
-    - ux
-    tuition: 13500
-    tuition_units: ''
   data-science-immersive:
     admissions: Open to anyone
     cities:
@@ -71,7 +31,7 @@ programs:
     - sydney
     - washington-dc
     commitment: unknown
-    cost_description: $14,500
+    cost_description: $15,950
     description: "The data science immersive at General Assembly teaches the skills\
       \ necessary\nfor bootcamp recruits to successfully analyze \u2013 and present\
       \ \u2013 data. Just a few\nof the topics covered include Python, Git, UNIX,\
@@ -131,7 +91,7 @@ programs:
     - ux
     - prototyping
     - testing
-    tuition: 11500
+    tuition: 14950
     tuition_units: ''
   web-development-immersive:
     admissions: Open to anyone
@@ -152,7 +112,7 @@ programs:
     - melbourne
     - singapore
     commitment: full-time
-    cost_description: $13,500
+    cost_description: $14,950
     description: "General Assembly\u2019s web development bootcamp covers a variety\
       \ of career-crucial\ntopics including JavaScript and Rails. Intensive career\
       \ counseling is also\npart of the program. General Assembly graduates will have\
