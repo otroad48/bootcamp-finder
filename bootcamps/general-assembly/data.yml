@@ -44,7 +44,6 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: Read report: bit.ly/GA-outcomes   
     reports_outcomes: true
     scholarships: 'No'
     topics:
@@ -83,7 +82,6 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: Read report: bit.ly/GA-outcomes
     reports_outcomes: true
     scholarships: Yes - Need-based
     topics:
@@ -124,7 +122,6 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: Read report: bit.ly/GA-outcomes
     reports_outcomes: true
     scholarships: For low-income students
     topics:
