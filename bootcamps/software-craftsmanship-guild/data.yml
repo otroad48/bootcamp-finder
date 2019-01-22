@@ -1,71 +1,71 @@
-description: !!python/unicode 'The Software Guild does double duty when it comes to teaching code. They currently offer two tracks of learning, .NET/C# and Java. They consider these to be the two most employable language skills in the current market. Although they do have two different tracks, they do point out that there are fundamental languages and user interface skills that overlap both tracks. The Software Guild believes in immersive learning. Though the only required hours are 9 a.m. to 4 p.m. when instructors are present, The Software Guild’s online community is open 24 hours a day to provide an opportunity for enthusiastic students to keep coding the night away. It’s also not a stretch for you to be working on coding skills during the weekend. You are even welcomed with open arms after you graduate. Apply online for a bootcamp, and The Software Guild will contact you within a business day. They will schedule an hour-long interview which will involve a Q&A, a session with a mentor and then an aptitude test. Relax, it isn’t a test about programming languages. However, you will need to demonstrate some fundamental programming skills like logic, reasoning, pattern matching and basic algebra (think math section of the SAT). While their employee network is largely regional, The Software Guild understands that people come from other states to attend bootcamp and will work with recruiters to find you gigs out-of-state.'
+description: !!python/unicode 'the software guild does double duty when it comes to teaching code. they currently offer two tracks of learning, .net/c# and java. they consider these to be the two most employable language skills in the current market. although they do have two different tracks, they do point out that there are fundamental languages and user interface skills that overlap both tracks. the software guild believes in immersive learning. though the only required hours are 9 a.m. to 4 p.m. when instructors are present, the software guild’s online community is open 24 hours a day to provide an opportunity for enthusiastic students to keep coding the night away. it’s also not a stretch for you to be working on coding skills during the weekend. you are even welcomed with open arms after you graduate. apply online for a bootcamp, and the software guild will contact you within a business day. they will schedule an hour-long interview which will involve a q&a, a session with a mentor and then an aptitude test. relax, it isn’t a test about programming languages. however, you will need to demonstrate some fundamental programming skills like logic, reasoning, pattern matching and basic algebra (think math section of the sat). while their employee network is largely regional, the software guild understands that people come from other states to attend bootcamp and will work with recruiters to find you gigs out-of-state.'
 
-display_name: The Software Guild
+display_name: the software guild
 founded_year: 2013
-meta-description: Graduate reviews of The Software Guild. Find out about
-  The Software Guild aptitude test and assessment.
+meta-description: graduate reviews of the software guild. find out about
+  the software guild aptitude test and assessment.
 primary_email: info@thesoftwareguild.com
 programs:
   java-bootcamp:
-    admissions: Application, interview, aptitude test
+    admissions: application, interview, aptitude test
     cities:
-    - Louisville
-    - Minneapolis
-    - Online
+    - louisville
+    - minneapolis
+    - online
     commitment: full-time
     cost_description: $10,000
-    description: !!python/unicode 'Our 12-week Java coding bootcamp teaches you everything you need to know to enter junior developer roles in the workforce. We provide career preparation, portfolio development and help with your resume and the interview process. You can also learn Java in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
-    display_name: Java Bootcamp
+    description: !!python/unicode 'our 12-week java coding bootcamp teaches you everything you need to know to enter junior developer roles in the workforce. we provide career preparation, portfolio development and help with your resume and the interview process. you can also learn java in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
+    display_name: java bootcamp
     duration: 12
     duration_units: weeks
     financing: true
-    guarantee: 'No'
+    guarantee: 'no'
     outcomes_verified: true
     placement: 95% of graduates land a job within 3 months of graduation
     reports_outcomes: true
-    scholarships: 'No'
+    scholarships: 'no'
     topics:
-    - C#
-    - CSS
-    - Git
-    - HTML
-    - Java
-    - JavaScript
-    - MVC
-    - .NET
-    - SQL
+    - c#
+    - css
+    - git
+    - html
+    - java
+    - javascript
+    - mvc
+    - .net
+    - sql
     tuition: 10000
-    tuition_units: USD $
+    tuition_units: usd $
   netc-bootcamp:
-    admissions: Application, interview, aptitude test
+    admissions: application, interview, aptitude test
     cities:
-    - Louisville
-    - Minneapolis
-    - Online
+    - louisville
+    - minneapolis
+    - online
     commitment: full-time
     cost_description: $10,000
-    description: !!python/unicode 'Our 12-week .NET/C# coding bootcamp teaches everything you need to know to enter junior developer roles in the workforce. We provide career preparation, portfolio development and help with your resume and the interview process. You can also learn .NET/C# in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
-    display_name: .Net/C# Bootcamp
+    description: !!python/unicode 'our 12-week .net/c# coding bootcamp teaches everything you need to know to enter junior developer roles in the workforce. we provide career preparation, portfolio development and help with your resume and the interview process. you can also learn .net/c# in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
+    display_name: .net/c# bootcamp
     duration: 12
     duration_units: weeks
     financing: true
-    guarantee: 'No'
+    guarantee: 'no'
     outcomes_verified: true
     placement: 95% of graduates land a job within 3 months of graduation
     reports_outcomes: true
-    scholarships: 'No'
+    scholarships: 'no'
     topics:
-    - C#
-    - CSS
-    - Git
-    - HTML
-    - Java
-    - JavaScript
-    - MVC
-    - .NET
-    - SQL
+    - c#
+    - css
+    - git
+    - html
+    - java
+    - javascript
+    - mvc
+    - .net
+    - sql
     tuition: 10000
-    tuition_units: USD $
-tagline: 12 Weeks. Hard Work. New Life
+    tuition_units: usd $
+tagline: 12 weeks. hard work. new life
 twitter: softwareguild
 website: http://thesoftwareguild.com
