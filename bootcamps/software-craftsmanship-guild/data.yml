@@ -8,7 +8,10 @@ primary_email: info@thesoftwareguild.com
 programs:
   java-bootcamp:
     admissions: application, interview, aptitude test
-    cities: louisville, minneapolis, remote
+    cities:
+    - louisville,
+    - minneapolis,
+    - remote
     commitment: full-time
     cost_description: $10,000
     description: !!python/unicode 'our 12-week java coding bootcamp teaches you everything you need to know to enter junior developer roles in the workforce. we provide career preparation, portfolio development and help with your resume and the interview process. you can also learn java in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
@@ -21,12 +24,24 @@ programs:
     placement: 95% of graduates land a job within 3 months of graduation
     reports_outcomes: true
     scholarships: 'no'
-    topics: c#, css, git, html, java, javascript, mvc, .net, sql
+    topics:
+    - c#,
+    - css,
+    - git,
+    - html,
+    - java,
+    - javascript,
+    - mvc,
+    - .net,
+    - sql
     tuition: 10000
     tuition_units: usd $
   netc-bootcamp:
     admissions: application, interview, aptitude test
-    cities: louisville, minneapolis, remote
+    cities:
+    - louisville,
+    - minneapolis,
+    - remote
     commitment: full-time
     cost_description: $10,000
     description: !!python/unicode 'our 12-week .net/c# coding bootcamp teaches everything you need to know to enter junior developer roles in the workforce. we provide career preparation, portfolio development and help with your resume and the interview process. you can also learn .net/c# in a part-time, 10-month online badge program that contains the same content, with the same level of rigor and attention to learning science.'
@@ -39,7 +54,16 @@ programs:
     placement: 95% of graduates land a job within 3 months of graduation
     reports_outcomes: true
     scholarships: 'no'
-    topics: c#, css, git, html, java, javascript, mvc, .net, sql
+    topics:
+    - c#,
+    - css,
+    - git,
+    - html,
+    - java,
+    - javascript,
+    - mvc,
+    - .net,
+    - sql
     tuition: 10000
     tuition_units: usd $
 tagline: 12 weeks. hard work. new life
