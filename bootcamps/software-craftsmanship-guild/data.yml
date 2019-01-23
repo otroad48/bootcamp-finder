@@ -25,14 +25,12 @@ programs:
     reports_outcomes: true
     scholarships: 'no'
     topics:
-    - c#
     - css
     - git
     - html
     - java
     - javascript
     - mvc
-    - .net
     - sql
     tuition: 10000
     tuition_units: usd $
@@ -55,14 +53,12 @@ programs:
     reports_outcomes: true
     scholarships: 'no'
     topics:
-    - c#
     - css
     - git
     - html
     - java
     - javascript
     - mvc
-    - .net
     - sql
     tuition: 10000
     tuition_units: usd $
