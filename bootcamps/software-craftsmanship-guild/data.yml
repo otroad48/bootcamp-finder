@@ -39,8 +39,8 @@ programs:
   netc-bootcamp:
     admissions: application, interview, aptitude test
     cities:
-    - louisville,
-    - minneapolis,
+    - louisville
+    - minneapolis
     - remote
     commitment: full-time
     cost_description: $10,000
