@@ -9,8 +9,8 @@ programs:
   java-bootcamp:
     admissions: application, interview, aptitude test
     cities:
-    - louisville,
-    - minneapolis,
+    - louisville
+    - minneapolis
     - remote
     commitment: full-time
     cost_description: $10,000
@@ -25,14 +25,14 @@ programs:
     reports_outcomes: true
     scholarships: 'no'
     topics:
-    - c#,
-    - css,
-    - git,
-    - html,
-    - java,
-    - javascript,
-    - mvc,
-    - .net,
+    - c#
+    - css
+    - git
+    - html
+    - java
+    - javascript
+    - mvc
+    - .net
     - sql
     tuition: 10000
     tuition_units: usd $
