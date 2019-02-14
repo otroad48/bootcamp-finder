@@ -83,9 +83,9 @@ programs:
     commitment: part-time
     cost_description: $1,667 per month
     description: !!python/unicode 'Our Full Stack Flex program provides
-      an in-depth, project-based approach with three 1-on-1
+      an in-depth, project-based approach with 1-on-1
 
-      mentor sessions per week. This bootcamp is built to land beginners their first
+      mentorship. This bootcamp is built to land beginners their first
 
       developer job without having to quit their existing one like all offline
 
@@ -215,7 +215,7 @@ programs:
       SciPy, pandas, and scikit-learn; plus data visualization tools like matplotlib,
       seaborn, and Jupyter. Thinkful students get ahead with a mentor-personalized
       experience, customizing their learning path and focusing on the skills they
-      need. Students meet with their mentor three times a week for an hour each session
+      need. Students meet with their mentor
       to learn best practices, receive constant feedback, and move quickly.
 
       '
