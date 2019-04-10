@@ -223,7 +223,8 @@ programs:
     duration: 6
     duration_units: months
     financing: true
-    guarantee: false
+    guarantee: Yes - Thinkful guarantees you a job within 6 months of graduation or
+      your money back
     outcomes_verified: true
     placement: As a brand-new program, Thinkful aims to carry over its 93% success
       rate in job placement from the Web Development programs.
