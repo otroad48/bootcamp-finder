@@ -409,7 +409,7 @@ programs:
     - css
     - ui
     - ux
-   tuition: 
+    tuition: 
     tuition_units: USD 
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
