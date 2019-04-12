@@ -295,7 +295,7 @@ programs:
     - html
     - css
     - git
-    - front-end
+    tuition:
     tuition_units: USD   
   flexible-data-analytics-bootcamp:
     admissions: Complete an interview to make sure your learning preferences and schedule 
@@ -349,13 +349,9 @@ programs:
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
-    - MySQL
-    - Python
-    - SQL
-    - Excel
-    - Data Visualization
-    - Data Analytics
-    - Business Intelligence
+    - mysql
+    - python
+    - sql
     tuition: 
     tuition_units: USD 
   flexible-product-design-bootcamp:
@@ -408,14 +404,12 @@ programs:
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
-    - MySQL
-    - Python
-    - SQL
-    - Excel
-    - Data Visualization
-    - Data Analytics
-    - Business Intelligence
-    tuition: 
+    - javascript
+    - html
+    - css
+    - ui
+    - ux
+   tuition: 
     tuition_units: USD 
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
