@@ -354,7 +354,7 @@ programs:
     - sql
     tuition: 
     tuition_units: USD 
-    flexible-data-analytics-bootcamp:
+    full-time-data-analytics-bootcamp:
     admissions: Complete an interview to make sure your learning preferences and schedule 
       aligns with the course
     cities:
@@ -411,7 +411,7 @@ programs:
     - sql
     tuition: 
     tuition_units: USD
-  full-time-product-design-bootcamp:
+  flexible-product-design-bootcamp:
     admissions: Complete an interview to make sure your learning preferences and schedule 
       aligns with the course
     cities:
