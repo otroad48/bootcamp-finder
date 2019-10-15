@@ -382,20 +382,12 @@ programs:
     - tampa
     - washington-dc
     commitment: part-time
-    cost_description: $1,495 per month
-    description: !!python/unicode 'The Data Analytics program combines an in-depth, 
-      project-based approach with two 1-on-1 sessions every week with a professional 
-      Data Analyst. This program is built to help those with no prior experience in 
-      data or technology land their first full time job as a data analyst - at a 
-      full-time immersive pace! You''ll work side-by-side 
-      with a professional data analyst to learn statistics, analysis and experiment design, 
-      how to work with visualizations in Tableau, a thorough understanding of Excel, SQL and 
-      Python. You''ll also have the option to meet in person with fellow students and mentors 
-      to share ideas and work through problems.
-      
-      '
+    cost_description: $3,375 per month
+    description: !!python/unicode 'Thinkful''s full-time Data Analytics Immersion shares the same in-depth, project-based approach of the Flexible pace. The main difference is that the Full Time pace pushes students to become data analysts in 4 months and requires over 40 hours of effort per week. The fully online program features constant support, as students interact with their classmates, instructors, and mentors. Each student has a dedicated mentor, who they meet with daily 1-on-1 for half an hour.
+
+    In the course, you will learn statistics, analysis and experiment design, how to work with visualizations in Tableau, a thorough understanding of Excel, SQL and Python.'
     display_name: Data Analytics Immersion
-    duration: 6
+    duration: 4
     duration_units: months
     financing: true
     guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
