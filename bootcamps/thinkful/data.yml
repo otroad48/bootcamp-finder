@@ -448,7 +448,7 @@ programs:
     guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
       Thinkful will reimburse your tuition'
     outcomes_verified: true
-    placement: Over 80% of our web development graduates have found full-time employment 
+    placement: Over 80% of our web development graduates have found full-time employment
       within 6 months of graduating.
     reports_outcomes: true
     scholarships: For women and veterans
@@ -458,6 +458,66 @@ programs:
     - css
     - ui
     - ux
+    tuition:
+    tuition_units: USD
+  flexible-product-management-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule
+      aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: part-time
+    cost_description: $1,900 per month
+    description: !!python/unicode 'Thinkful’s Product Management bootcamp equips students with the 
+      skills, training, and network to launch a high-paying career. The five-month long, completely 
+      online course is flexible, making it perfect for those who aren’t ready to quit their jobs to 
+      study full time. The curriculum starts with a dive into what product managers do daily––from 
+      designing KPIs to conducting in-field research. From there, students will spend time getting 
+      to know the life cycle of a product, learning the function of product design and engineering 
+      teams, and how to best manage output. The penultimate unit explores product launches, collection 
+      of feedback and data, and successful iteration based on metrics and stakeholder demand. Finally, 
+      students will take part in mock interviews that mimic the real-world job application process. 
+      A dedicated career advisor is assigned to each student once course work is complete to guide 
+      them and assure future success.
+
+      '
+    display_name: Product Management Flex
+    duration: 5
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation,
+      Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of our web development graduates have found full-time employment
+      within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - product-management
+    - product
+    - user-research
+    - product-validation
     tuition: 
     tuition_units: USD 
 tagline: An online program to go from beginner to engineer

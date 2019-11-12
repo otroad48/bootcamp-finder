@@ -231,6 +231,21 @@
   meta_description: "Learn which bootcamps teach the most approachable language, PHP"
   description: "PHP is the most-used language on the internet. These are the bootcamps that will get you started with PHP."
 
+- display_name: Product
+  slug: product
+  meta_description: An accessible entity that delivers market value 
+  description: A product is a physical, downloadable or accessible entity that can be purchased, downloaded or attained, and delivers value to the customer. 
+
+- display_name: Product Management 
+  slug: product-management
+  meta_description: The link between every phase of a product’s lifecycle
+  description: Product Management is crucial in developing products, launching them to market and understanding customer needs. 
+
+- display_name: Product validation 
+  slug: product-validation
+  meta_description: Verifying the product will be successful without building or deploying it. 
+  description:  Product validation allows engineers to test feasibility, usability, and desirability of a product before they build and deploy it.  
+
 - display_name: Prototyping
   slug: prototyping
   meta_description: "Compare bootcamps that will teach you prototyping effectively"
@@ -360,6 +375,11 @@
   slug: unix
   meta_description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
   description: "UNIX is a decades-old programming shell that's still crucial in the industry. These bootcamps will teach you to work with UNIX."
+
+- display_name: User research
+  slug: user-research
+  meta_description: A study, interview, or focus group that clarifies user behavior, desire, and drive. 
+  description:  User research provides an insight into user behavior, desire and drive through studies, interviews, and focus groups. 
 
 - display_name: UX
   slug: ux
