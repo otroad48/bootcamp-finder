@@ -503,7 +503,7 @@ programs:
 
       '
     display_name: Product Management Flex
-    duration: 5
+    duration: 6
     duration_units: months
     financing: true
     guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation,
